@@ -33,6 +33,9 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 - **Gradle** – Gestão de dependências e build
 - **Banco de Dados** – (configurar conforme projeto: H2/PostgreSQL/MySQL)
 
+### Outras Ferramentas
+
+
 
 
 
