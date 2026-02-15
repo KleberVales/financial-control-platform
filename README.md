@@ -28,7 +28,8 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 ### Backend
 
 - **Java** – Linguagem principal do projeto
-- **Spring Boot** – Framework para APIs REST  
+- **Spring Boot** – Framework para APIs REST
+- **Spring Data JPA** (se aplicável) – Acesso e persistência em banco  
 
 
 
