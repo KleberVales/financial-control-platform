@@ -53,6 +53,10 @@ Antes de começar, certifique-se de ter instalado:
 - Banco de dados (ex.: PostgreSQL, MySQL)  
 - (Opcional) Docker & Docker Compose
 
+---
+
+### 📂 Clonando o Repositório
+
 
 
 
