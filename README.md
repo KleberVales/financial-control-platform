@@ -43,4 +43,7 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 
 ## 🚀 Começando
 
+### 📋 Pré-requisitos
+
+
 
