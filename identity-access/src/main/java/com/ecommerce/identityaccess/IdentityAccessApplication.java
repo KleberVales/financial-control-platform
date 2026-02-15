@@ -1,13 +1,13 @@
-package com.ecommerce.financialcontrolplatform;
+package com.ecommerce.identityaccess;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FinancialControlPlatformApplication {
+public class IdentityAccessApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FinancialControlPlatformApplication.class, args);
+        SpringApplication.run(IdentityAccessApplication.class, args);
     }
 
 }
