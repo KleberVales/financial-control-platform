@@ -23,6 +23,9 @@ Este projeto é ideal para uso pessoal, aprendizado e como destaque no seu portf
 
 ## 🛠 Tecnologias Utilizadas
 
+O projeto foi estruturado com as seguintes principais tecnologias:
+
+
 
 
 
