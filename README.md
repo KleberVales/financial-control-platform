@@ -21,6 +21,9 @@ Este projeto é ideal para uso pessoal, aprendizado e como destaque no seu portf
 
 ---
 
+## 🛠 Tecnologias Utilizadas
+
+
 
 
 
