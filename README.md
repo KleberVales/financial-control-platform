@@ -13,6 +13,8 @@ A *Financial Control Platform* foi desenvolvida como uma aplicação real de con
 ✔️ Cadastro de transações (receitas e despesas)  
 ✔️ Organização por categorias  
 ✔️ Consulta e filtro por datas/valores  
+✔️ Sumário financeiro mensal  
+
 
 
 
