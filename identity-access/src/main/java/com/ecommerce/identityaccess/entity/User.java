@@ -24,10 +24,5 @@ public class User {
     @Column(name="user_role")
     private Role role;
 
-    public User(RegisterRequestDTO dto) {
-        this.username = dto.getUsername();
-        this.email = dto.getEmail();
-        this.password = dto.getPassword();
-        this.role = dto.getRole();
-    }
+
 }
