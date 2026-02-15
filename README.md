@@ -45,5 +45,8 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 
 ### 📋 Pré-requisitos
 
+Antes de começar, certifique-se de ter instalado:
+
+
 
 
