@@ -49,7 +49,9 @@ Antes de começar, certifique-se de ter instalado:
 
 - JDK 17+ ou 21+
 - Git
-- Gradle  
+- Gradle
+- Banco de dados (ex.: PostgreSQL, MySQL)  
+- (Opcional) Docker & Docker Compose
 
 
 
