@@ -15,6 +15,8 @@ A *Financial Control Platform* foi desenvolvida como uma aplicação real de con
 ✔️ Consulta e filtro por datas/valores  
 ✔️ Sumário financeiro mensal  
 ✔️ Possível integração com frontend e banco de dados  
+✔️ Estrutura preparada para evolução com testes, docs e CI/CD
+
 
 
 
