@@ -5,3 +5,6 @@ Uma plataforma completa de **controle financeiro pessoal/empresarial**, constru�
 Este repositório contém todo o código do projeto backend + frontend (se aplicável). O objetivo é fornecer uma solução full-stack para gerenciar finanças de forma simples e eficiente, utilizando tecnologias modernas como **Java, Spring Boot, Gradle e mais**.
 
 ---
+
+## 🚀 Sobre o Projeto
+
