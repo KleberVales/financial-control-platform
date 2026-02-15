@@ -1,1 +1,1 @@
-# financial-control-platform
+# Financial Control Platform 💰📊
