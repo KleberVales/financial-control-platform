@@ -17,6 +17,10 @@ A *Financial Control Platform* foi desenvolvida como uma aplicação real de con
 ✔️ Possível integração com frontend e banco de dados  
 ✔️ Estrutura preparada para evolução com testes, docs e CI/CD
 
+Este projeto é ideal para uso pessoal, aprendizado e como destaque no seu portfólio profissional.:contentReference[oaicite:1]{index=1}
+
+---
+
 
 
 
