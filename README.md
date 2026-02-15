@@ -47,7 +47,8 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 
 Antes de começar, certifique-se de ter instalado:
 
-- JDK 17+ ou 21+  
+- JDK 17+ ou 21+
+- Git 
 
 
 
