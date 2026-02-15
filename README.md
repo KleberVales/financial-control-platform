@@ -29,7 +29,8 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 
 - **Java** – Linguagem principal do projeto
 - **Spring Boot** – Framework para APIs REST
-- **Spring Data JPA** (se aplicável) – Acesso e persistência em banco  
+- **Spring Data JPA** (se aplicável) – Acesso e persistência em banco
+- **Gradle** – Gestão de dependências e build
 
 
 
