@@ -27,7 +27,9 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 
 ### Backend
 
-- **Java** – Linguagem principal do projeto  
+- **Java** – Linguagem principal do projeto
+- **Spring Boot** – Framework para APIs REST  
+
 
 
 
