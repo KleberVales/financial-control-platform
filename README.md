@@ -38,3 +38,9 @@ O projeto foi estruturado com as seguintes principais tecnologias:
 - **Docker** *(opcional)* – Conteinerização
 - **Testes Automatizados** *(JUnit, Mockito, etc.)*
 - **GitHub Actions** *(CI/CD se configurado)*
+
+---
+
+## 🚀 Começando
+
+
