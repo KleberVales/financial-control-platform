@@ -23,7 +23,7 @@ This project is ideal for personal use, learning, and as a highlight in your pro
 
 ## 🛠 Technologies Used
 
-O projeto foi estruturado com as seguintes principais tecnologias:
+The project was structured using the following main technologies:
 
 ### Backend
 
