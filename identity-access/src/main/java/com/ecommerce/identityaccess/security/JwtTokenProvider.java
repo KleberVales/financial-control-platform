@@ -1,4 +1,4 @@
-package com.ecommerce.identityaccess.securityconfig;
+package com.ecommerce.identityaccess.security;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
