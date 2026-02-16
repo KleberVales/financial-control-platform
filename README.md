@@ -13,9 +13,9 @@ The *Financial Control Platform* was developed as a real financial control appli
 ✔️ Transaction registration (income and expenses)  
 ✔️ Organization by categories  
 ✔️ Search and filter by dates/values  
-✔️ Sumário financeiro mensal  
-✔️ Possível integração com frontend e banco de dados  
-✔️ Estrutura preparada para evolução com testes, docs e CI/CD
+✔️ Monthly financial summary  
+✔️ Possible integration with frontend and database  
+✔️ Structure prepared for evolution with tests, documentation, and CI/CD
 
 Este projeto é ideal para uso pessoal, aprendizado e como destaque no seu portfólio profissional.:contentReference[oaicite:1]{index=1}
 
