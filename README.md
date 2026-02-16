@@ -1,29 +1,29 @@
 # Financial Control Platform 💰📊
 
-Uma plataforma completa de **controle financeiro pessoal/empresarial**, construída com foco em oferecer organização, visualização de transações e gestão intuitiva de receitas e despesas.
+A complete **personal/business financial control** platform, built with a focus on providing organization, transaction visualization, and intuitive management of income and expenses.
 
-Este repositório contém todo o código do projeto backend + frontend (se aplicável). O objetivo é fornecer uma solução full-stack para gerenciar finanças de forma simples e eficiente, utilizando tecnologias modernas como **Java, Spring Boot, Gradle e mais**.
-
----
-
-## 🚀 Sobre o Projeto
-
-A *Financial Control Platform* foi desenvolvida como uma aplicação real de controle financeiro, permitindo:
-
-✔️ Cadastro de transações (receitas e despesas)  
-✔️ Organização por categorias  
-✔️ Consulta e filtro por datas/valores  
-✔️ Sumário financeiro mensal  
-✔️ Possível integração com frontend e banco de dados  
-✔️ Estrutura preparada para evolução com testes, docs e CI/CD
-
-Este projeto é ideal para uso pessoal, aprendizado e como destaque no seu portfólio profissional.:contentReference[oaicite:1]{index=1}
+This repository contains all the backend and frontend (if applicable) project code. The goal is to provide a full-stack solution for managing finances simply and efficiently, using modern technologies such as **Java, Spring Boot, Gradle, and more**.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🚀 About the Project
 
-O projeto foi estruturado com as seguintes principais tecnologias:
+The *Financial Control Platform* was developed as a real financial control application, allowing you to:
+
+✔️ Transaction registration (income and expenses)  
+✔️ Organization by categories  
+✔️ Search and filter by dates/values  
+✔️ Monthly financial summary  
+✔️ Possible integration with frontend and database  
+✔️ Structure prepared for evolution with tests, documentation, and CI/CD
+
+This project is ideal for personal use, learning, and as a highlight in your professional portfolio.:contentReference[oaicite:1]{index=1}
+
+---
+
+## 🛠 Technologies Used
+
+The project was structured using the following main technologies:
 
 ### Backend
 
