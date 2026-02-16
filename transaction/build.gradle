@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '4.0.2'
+    id 'org.springframework.boot' version '3.2.4'
     id 'io.spring.dependency-management' version '1.1.7'
 }
 
@@ -19,9 +19,11 @@ repositories {
 }
 
 dependencies {
+    // Core
     implementation 'org.springframework.boot:spring-boot-starter'
-    testImplementation 'org.springframework.boot:spring-boot-starter-test'
-    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+    // Web/MVC
+    implementation 'org.springframework.boot:spring-boot-starter-web'
 
     // Spring Data JPA
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
@@ -33,11 +35,29 @@ dependencies {
     compileOnly 'org.projectlombok:lombok:1.18.30'
     annotationProcessor 'org.projectlombok:lombok:1.18.30'
 
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    // Para @WebMvcTest
+    testImplementation 'org.springframework:spring-webmvc'
+
+    // Para @MockBean
+    testImplementation 'org.mockito:mockito-core'
+    testImplementation 'org.mockito:mockito-junit-jupiter'
+
+    // Para ObjectMapper (já incluso no starter-web, mas explícito para testes)
+    testImplementation 'com.fasterxml.jackson.core:jackson-databind'
+
+    // Para testes com JSON
+    testImplementation 'org.springframework:spring-test'
+
+    // JUnit 5
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+
+    // Lombok para testes
     testCompileOnly 'org.projectlombok:lombok:1.18.30'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.30'
-
-    // Spring MVC
-    implementation 'org.springframework.boot:spring-boot-starter-web'
 
 }
 
