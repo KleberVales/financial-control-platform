@@ -1,8 +1,8 @@
 # Financial Control Platform 💰📊
 
-Uma plataforma completa de **controle financeiro pessoal/empresarial**, construída com foco em oferecer organização, visualização de transações e gestão intuitiva de receitas e despesas.
+A complete **personal/business financial control** platform, built with a focus on providing organization, transaction visualization, and intuitive management of income and expenses.
 
-Este repositório contém todo o código do projeto backend + frontend (se aplicável). O objetivo é fornecer uma solução full-stack para gerenciar finanças de forma simples e eficiente, utilizando tecnologias modernas como **Java, Spring Boot, Gradle e mais**.
+This repository contains all the backend and frontend (if applicable) project code. The goal is to provide a full-stack solution for managing finances simply and efficiently, using modern technologies such as **Java, Spring Boot, Gradle, and more**.
 
 ---
 
