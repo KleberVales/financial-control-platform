@@ -21,7 +21,7 @@ This project is ideal for personal use, learning, and as a highlight in your pro
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
 O projeto foi estruturado com as seguintes principais tecnologias:
 
