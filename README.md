@@ -8,7 +8,7 @@ This repository contains all the backend and frontend (if applicable) project co
 
 ## 🚀 About the Project
 
-A *Financial Control Platform* foi desenvolvida como uma aplicação real de controle financeiro, permitindo:
+The *Financial Control Platform* was developed as a real financial control application, allowing you to:
 
 ✔️ Cadastro de transações (receitas e despesas)  
 ✔️ Organização por categorias  
