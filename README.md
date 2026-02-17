@@ -27,35 +27,35 @@ The project was structured using the following main technologies:
 
 ### Backend
 
-- **Java** – Linguagem principal do projeto
-- **Spring Boot** – Framework para APIs REST
-- **Spring Data JPA** (se aplicável) – Acesso e persistência em banco
-- **Gradle** – Gestão de dependências e build
-- **Banco de Dados** – (configurar conforme projeto: H2/PostgreSQL/MySQL)
+- **Java** – Project's main language
+- **Spring Boot** – Framework for REST APIs
+- **Spring Data JPA** – Access and persistence in database
+- **Gradle** – Dependency management and build
+- **Database** – PostgreSQL
 
 ### Outras Ferramentas
 
-- **Docker** *(opcional)* – Conteinerização
-- **Testes Automatizados** *(JUnit, Mockito, etc.)*
-- **GitHub Actions** *(CI/CD se configurado)*
+- **Docker**  – Containerization
+- **Automated Testing** *(JUnit, Mockito, etc.)*
+- **GitHub Actions** *(CI/CD DevOps)*
 
 ---
 
-## 🚀 Começando
+## 🚀 Starting
 
-### 📋 Pré-requisitos
+### 📋Prerequisites
 
-Antes de começar, certifique-se de ter instalado:
+Before you begin, make sure you have installed:
 
-- JDK 17+ ou 21+
+- JDK 21
 - Git
 - Gradle
-- Banco de dados (ex.: PostgreSQL, MySQL)  
-- (Opcional) Docker & Docker Compose
+- Database PostgreSQL  
+- Docker & Docker Compose
 
 ---
 
-### 📂 Clonando o Repositório
+### 📂 Cloning the Repository
 
 ```bash
 git clone https://github.com/KleberVales/financial-control-platform.git
