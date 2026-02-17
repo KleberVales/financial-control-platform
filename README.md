@@ -43,7 +43,7 @@ The project was structured using the following main technologies:
 
 ## 🚀 Starting
 
-### 📋 Pré-requisitos
+### 📋Prerequisites
 
 Antes de começar, certifique-se de ter instalado:
 
