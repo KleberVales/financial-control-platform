@@ -28,7 +28,7 @@ The project was structured using the following main technologies:
 ### Backend
 
 - **Java** – Project's main language
-- **Spring Boot** – Framework para APIs REST
+- **Spring Boot** – Framework for REST APIs
 - **Spring Data JPA** (se aplicável) – Acesso e persistência em banco
 - **Gradle** – Gestão de dependências e build
 - **Banco de Dados** – (configurar conforme projeto: H2/PostgreSQL/MySQL)
