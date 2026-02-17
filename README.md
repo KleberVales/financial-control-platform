@@ -45,7 +45,7 @@ The project was structured using the following main technologies:
 
 ### 📋Prerequisites
 
-Antes de começar, certifique-se de ter instalado:
+Before you begin, make sure you have installed:
 
 - JDK 17+ ou 21+
 - Git
