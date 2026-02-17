@@ -47,11 +47,11 @@ The project was structured using the following main technologies:
 
 Before you begin, make sure you have installed:
 
-- JDK 17+ ou 21+
+- JDK 21
 - Git
 - Gradle
-- Banco de dados (ex.: PostgreSQL, MySQL)  
-- (Opcional) Docker & Docker Compose
+- Database PostgreSQL  
+- Docker & Docker Compose
 
 ---
 
