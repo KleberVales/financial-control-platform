@@ -76,6 +76,9 @@ Java & Spring Software Engineer
 
 Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Scrum | Generative AI
 
+🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
+
+
 
 
 
