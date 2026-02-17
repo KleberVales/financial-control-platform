@@ -36,7 +36,7 @@ The project was structured using the following main technologies:
 ### Outras Ferramentas
 
 - **Docker**  – Containerization
-- **Testes Automatizados** *(JUnit, Mockito, etc.)*
+- **Automated Testing** *(JUnit, Mockito, etc.)*
 - **GitHub Actions** *(CI/CD se configurado)*
 
 ---
