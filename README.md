@@ -31,7 +31,7 @@ The project was structured using the following main technologies:
 - **Spring Boot** – Framework for REST APIs
 - **Spring Data JPA** – Access and persistence in database
 - **Gradle** – Dependency management and build
-- **Banco de Dados** – (configurar conforme projeto: H2/PostgreSQL/MySQL)
+- **Database** – PostgreSQL
 
 ### Outras Ferramentas
 
