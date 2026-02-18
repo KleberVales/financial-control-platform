@@ -1,1 +1,7 @@
 rootProject.name = 'financial-control-platform'
+
+include 'account'
+include 'budget'
+include 'transaction'
+include 'identity-access'
+include 'reporting'
