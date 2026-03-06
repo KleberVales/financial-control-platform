@@ -61,7 +61,4 @@ Before you begin, make sure you have installed:
 git clone https://github.com/KleberVales/financial-control-platform.git
 cd financial-control-platform
 ```
-
-
-🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
