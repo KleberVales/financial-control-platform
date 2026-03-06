@@ -62,14 +62,6 @@ git clone https://github.com/KleberVales/financial-control-platform.git
 cd financial-control-platform
 ```
 
-
-
-
-
-
-
-Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture
-
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
