@@ -66,7 +66,6 @@ cd financial-control-platform
 
 
 
-**Kleber Vales**
 
 Java & Spring Software Engineer
 
