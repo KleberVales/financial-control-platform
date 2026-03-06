@@ -62,7 +62,6 @@ git clone https://github.com/KleberVales/financial-control-platform.git
 cd financial-control-platform
 ```
 
-🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
