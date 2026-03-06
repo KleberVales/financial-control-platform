@@ -62,7 +62,6 @@ git clone https://github.com/KleberVales/financial-control-platform.git
 cd financial-control-platform
 ```
 
-🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
 🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
 🎓 **Bachelor's Degree in Computer Science**  
