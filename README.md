@@ -76,6 +76,8 @@ Java & Spring Software Engineer
 
 Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Generative AI | Event-driven Architecture
 
+<p align="justify">Software engineer with 5+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices, event-driven systems and DevOps practices.<p/>
+
 
 
 
