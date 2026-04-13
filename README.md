@@ -57,8 +57,5 @@ Before you begin, make sure you have installed:
 
 ### 📂 Cloning the Repository
 
-```bash
-git clone https://github.com/KleberVales/financial-control-platform.git
-cd financial-control-platform
-```
+
 
