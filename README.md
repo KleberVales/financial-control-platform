@@ -43,9 +43,3 @@ The project was structured using the following main technologies:
 
 ## 🚀 Starting
 
-### 📋Prerequisites
-
-
-
-
-
