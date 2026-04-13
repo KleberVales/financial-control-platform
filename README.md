@@ -51,7 +51,6 @@ Before you begin, make sure you have installed:
 - Git
 - Gradle
 - Database PostgreSQL  
-- Docker & Docker Compose
 
 
 
