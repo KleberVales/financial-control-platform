@@ -45,7 +45,6 @@ The project was structured using the following main technologies:
 
 ### 📋Prerequisites
 
-Before you begin, make sure you have installed:
 
 
 
