@@ -68,5 +68,5 @@ cd financial-control-platform
 
 Email: klebervales.dev@gmail.com
 
-Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | 
+Redes: 
 
