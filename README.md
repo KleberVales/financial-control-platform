@@ -64,6 +64,3 @@ cd financial-control-platform
 
 ---
 
-## ✉️ Contact
-
-
