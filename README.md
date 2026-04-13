@@ -55,7 +55,4 @@ Before you begin, make sure you have installed:
 
 ---
 
-### 📂 Cloning the Repository
-
-
 
