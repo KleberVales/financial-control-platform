@@ -48,7 +48,6 @@ The project was structured using the following main technologies:
 Before you begin, make sure you have installed:
 
 - JDK 21
-- Git
 
 
 
