@@ -50,7 +50,6 @@ Before you begin, make sure you have installed:
 - JDK 21
 - Git
 - Gradle
-- Database PostgreSQL  
 
 
 
