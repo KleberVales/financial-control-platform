@@ -53,6 +53,5 @@ Before you begin, make sure you have installed:
 - Database PostgreSQL  
 - Docker & Docker Compose
 
----
 
 
