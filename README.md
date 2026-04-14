@@ -39,5 +39,4 @@ The project was structured using the following main technologies:
 - **Automated Testing** *(JUnit, Mockito, etc.)*
 - **GitHub Actions** *(CI/CD DevOps)*
 
----
 
