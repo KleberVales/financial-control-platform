@@ -35,6 +35,4 @@ The project was structured using the following main technologies:
 
 ### Outras Ferramentas
 
-- **Docker**  – Containerization
-
 
