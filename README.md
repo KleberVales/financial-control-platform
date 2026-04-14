@@ -21,6 +21,4 @@ This project is ideal for personal use, learning, and as a highlight in your pro
 
 ---
 
-## 🛠 Technologies Used
-
 
