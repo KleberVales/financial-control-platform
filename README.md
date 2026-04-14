@@ -27,5 +27,3 @@ The project was structured using the following main technologies:
 
 ### Backend
 
-- **Java** – Project's main language
-
