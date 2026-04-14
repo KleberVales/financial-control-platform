@@ -33,6 +33,3 @@ The project was structured using the following main technologies:
 - **Gradle** – Dependency management and build
 - **Database** – PostgreSQL
 
-### Outras Ferramentas
-
-
