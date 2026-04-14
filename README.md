@@ -37,6 +37,5 @@ The project was structured using the following main technologies:
 
 - **Docker**  – Containerization
 - **Automated Testing** *(JUnit, Mockito, etc.)*
-- **GitHub Actions** *(CI/CD DevOps)*
 
 
