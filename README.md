@@ -25,5 +25,4 @@ This project is ideal for personal use, learning, and as a highlight in your pro
 
 The project was structured using the following main technologies:
 
-### Backend
 
