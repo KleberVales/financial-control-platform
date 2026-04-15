@@ -7,5 +7,3 @@ This repository contains all the backend and frontend (if applicable) project co
 ---
 
 ## 🚀 About the Project
-
-The *Financial Control Platform* was developed as a real financial control application, allowing you to:
