@@ -11,4 +11,3 @@ This repository contains all the backend and frontend (if applicable) project co
 The *Financial Control Platform* was developed as a real financial control application, allowing you to:
 
 ✔️ Transaction registration (income and expenses)  
-✔️ Organization by categories  
