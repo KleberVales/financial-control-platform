@@ -17,7 +17,3 @@ The *Financial Control Platform* was developed as a real financial control appli
 ✔️ Possible integration with frontend and database  
 ✔️ Structure prepared for evolution with tests, documentation, and CI/CD
 
-This project is ideal for personal use, learning, and as a highlight in your professional portfolio.:contentReference[oaicite:1]{index=1}
-
-
-
