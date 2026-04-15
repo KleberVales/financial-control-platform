@@ -13,5 +13,3 @@ The *Financial Control Platform* was developed as a real financial control appli
 ✔️ Transaction registration (income and expenses)  
 ✔️ Organization by categories  
 ✔️ Search and filter by dates/values  
-✔️ Monthly financial summary  
-
