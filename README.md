@@ -15,5 +15,4 @@ The *Financial Control Platform* was developed as a real financial control appli
 ✔️ Search and filter by dates/values  
 ✔️ Monthly financial summary  
 ✔️ Possible integration with frontend and database  
-✔️ Structure prepared for evolution with tests, documentation, and CI/CD
 
