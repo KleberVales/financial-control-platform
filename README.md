@@ -11,6 +11,7 @@ This project aims to provide a structured solution for tracking financial data, 
 - 📅 Organize data by date and category
 - 📈 Generate financial reports and summaries
 - 🔐 Secure and structured data handling
+- ⚡ Scalable architecture using modern technologies
 
 
 
