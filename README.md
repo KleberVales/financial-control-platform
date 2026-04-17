@@ -10,6 +10,7 @@ This project aims to provide a structured solution for tracking financial data, 
 - 💳 Manage financial transactions
 - 📅 Organize data by date and category
 - 📈 Generate financial reports and summaries
+- 🔐 Secure and structured data handling
 
 
 
