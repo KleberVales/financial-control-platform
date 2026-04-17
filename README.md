@@ -4,5 +4,7 @@ A financial control platform designed to help users manage income, expenses, and
 
 This project aims to provide a structured solution for tracking financial data, generating insights, and improving decision-making.
 
+## 🚀 Features
+
 
 
