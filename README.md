@@ -19,6 +19,7 @@ This project aims to provide a structured solution for tracking financial data, 
 
 - Java
 - Spring Boot
+- REST APIs
 
 
 
