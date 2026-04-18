@@ -47,6 +47,8 @@ financial-control-platform/
 │   └── models/
 │
 │── frontend/
+│   ├── src/
+
 
 
 ```
