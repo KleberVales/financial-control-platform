@@ -51,6 +51,8 @@ financial-control-platform/
 │   ├── components/
 │   ├── pages/
 │   └── services/
+│
+
 
 ```
 
