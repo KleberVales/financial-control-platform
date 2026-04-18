@@ -50,7 +50,7 @@ financial-control-platform/
 │   ├── src/
 │   ├── components/
 │   ├── pages/
-
+│   └── services/
 
 ```
 
