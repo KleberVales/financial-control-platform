@@ -44,6 +44,8 @@ financial-control-platform/
 │   ├── controllers/
 │   ├── services/
 │   ├── repositories/
+│   └── models/
+
 
 
 
