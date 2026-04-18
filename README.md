@@ -52,6 +52,8 @@ financial-control-platform/
 │   ├── pages/
 │   └── services/
 │
+│── docker/
+
 
 
 ```
