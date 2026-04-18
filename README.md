@@ -34,5 +34,7 @@ This project aims to provide a structured solution for tracking financial data, 
 - Docker
 - Git & GitHub
 
+## 📂 Project Structure
+
 
 
