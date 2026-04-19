@@ -61,5 +61,9 @@ financial-control-platform/
 
 ### 1. Clone the repository
 
+```Bash
+git clone https://github.com/KleberVales/financial-control-platform.git
+```
+
 
 
