@@ -70,6 +70,7 @@ cd financial-control-platform
 
 ```Bash
 cd backend
+./mvnw spring-boot:run
 ```
 
 
