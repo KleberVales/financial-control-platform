@@ -75,5 +75,9 @@ cd backend
 
 ### 3. Frontend setup
 
+```Bash
+cd frontend
+```
+
 
 
