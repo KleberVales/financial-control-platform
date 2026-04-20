@@ -115,5 +115,7 @@ docker-compose up --build
 
 Contributions are welcome!
 
+1. Fork the project
+
 
 
