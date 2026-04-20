@@ -111,5 +111,7 @@ docker-compose up --build
 - ☁️ Cloud deployment (AWS/Azure)
 - 🔄 CI/CD pipeline
 
+## 🤝 Contributing
+
 
 
