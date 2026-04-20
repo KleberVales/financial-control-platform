@@ -95,3 +95,5 @@ docker-compose up --build
 | POST   | /transactions      | Create a transaction  |
 | GET    | /reports           | Financial reports     |
 | DELETE | /transactions/{id} | Delete transaction    |
+
+## 🎯 Goals of the Project
