@@ -87,5 +87,7 @@ npm start
 docker-compose up --build
 ```
 
+## 📊 API Endpoints 
+
 
 
