@@ -104,3 +104,5 @@ docker-compose up --build
 - Apply best practices in microservices and clean architecture
 
 ## 📌 Future Improvements
+
+- ✅ Authentication & Authorization (JWT, Spring Security)
