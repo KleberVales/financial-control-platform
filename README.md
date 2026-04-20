@@ -97,3 +97,5 @@ docker-compose up --build
 | DELETE | /transactions/{id} | Delete transaction    |
 
 ## 🎯 Goals of the Project
+
+- Improve financial organization
