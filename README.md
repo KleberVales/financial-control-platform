@@ -89,5 +89,11 @@ docker-compose up --build
 
 ## 📊 API Endpoints 
 
+| Method | Endpoint           | Description           |
+| ------ | ------------------ | --------------------- |
+| GET    | /transactions      | List all transactions |
+
+
+
 
 
