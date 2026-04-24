@@ -127,7 +127,6 @@ Contributions are welcome!
 Developed by Kleber Vales
 
 - GitHub: https://github.com/KleberVales
-- LinkedIn:
 
 
 
