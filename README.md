@@ -124,4 +124,4 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-Developed by
+Developed
