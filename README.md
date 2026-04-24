@@ -123,5 +123,3 @@ Contributions are welcome!
 ---
 
 ## 👨‍💻 Author
-
-Developed
