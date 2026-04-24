@@ -121,5 +121,4 @@ Contributions are welcome!
 4. Open a Pull Request
 
 ---
-
-## 👨‍💻 
+## 
