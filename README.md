@@ -115,7 +115,7 @@ docker-compose up --build
 
 Contributions are welcome!
 
-1. Fork the
+1. Fork
 
 
 
