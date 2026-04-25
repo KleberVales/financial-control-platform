@@ -113,4 +113,3 @@ docker-compose up --build
 
 ## 🤝 Contributing
 
-Contributions
