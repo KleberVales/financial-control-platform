@@ -113,9 +113,4 @@ docker-compose up --build
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-
-1. Fork
-
-
-
+Contributions are welcom
