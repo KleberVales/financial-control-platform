@@ -105,6 +105,5 @@ docker-compose up --build
 
 ## 📌 Future Improvements
 
-- ✅ Authentication 
 
 
