@@ -109,5 +109,5 @@ docker-compose up --build
 - 📱 Mobile responsiveness
 - 📊 Advanced dashboards (charts & analytics)
 - ☁️ Cloud deployment (AWS/Azure)
-- 🔄 CI/CD pipeline
+- 🔄 CI/CD 
 
