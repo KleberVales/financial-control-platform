@@ -101,8 +101,6 @@ docker-compose up --build
 - Improve financial organization
 - Provide real-time insights
 - Support scalable backend architecture
-- Apply best practices in microservices and clean 
-
-
+- Apply best practices in microservices 
 
 
