@@ -106,7 +106,6 @@ docker-compose up --build
 ## 📌 Future Improvements
 
 - ✅ Authentication & Authorization (JWT, Spring Security)
-- 📱 Mobile
 
 
 
