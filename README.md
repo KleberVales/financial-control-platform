@@ -100,4 +100,3 @@ docker-compose up --build
 
 - Improve financial organization
 - Provide real-time insights
-- Support s
