@@ -103,7 +103,7 @@ docker-compose up --build
 - Support scalable backend architecture
 - Apply best practices in microservices and clean architecture
 
-## 📌 Future Improvements
+
 
 
 
