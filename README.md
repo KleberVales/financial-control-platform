@@ -99,4 +99,3 @@ docker-compose up --build
 ## 🎯 Goals of the Project
 
 - Improve financial organization
-- Provide 
