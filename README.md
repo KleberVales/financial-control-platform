@@ -108,6 +108,5 @@ docker-compose up --build
 - ✅ Authentication & Authorization (JWT, Spring Security)
 - 📱 Mobile responsiveness
 - 📊 Advanced dashboards (charts & analytics)
-- ☁️ Cloud deployment (AWS/Azure)
-
+- ☁️ Cloud deployment
 
