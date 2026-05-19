@@ -96,5 +96,3 @@ docker-compose up --build
 | GET    | /reports           | Financial reports     |
 | DELETE | /transactions/{id} | Delete transaction    |
 
-## 🎯 Goals
-
