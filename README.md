@@ -81,5 +81,5 @@ npm install
 npm start
 ```
 
-## 🐳 Running with 
+## 🐳 Running
 
