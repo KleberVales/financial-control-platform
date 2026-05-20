@@ -89,6 +89,5 @@ docker-compose up --build
 
 ## 📊 API Endpoints 
 
-| Method | Endpoint           |          
-
+| Method |
 
