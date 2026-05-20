@@ -73,6 +73,6 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-### 3. Frontend setup
+### 3. Frontend 
 
 
