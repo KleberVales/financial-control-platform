@@ -91,5 +91,5 @@ docker-compose up --build
 
 | Method | Endpoint           | Description           |
 | ------ | ------------------ | --------------------- |
-| GET    | /transactions      | 
+| GET    | 
 
