@@ -93,4 +93,4 @@ docker-compose up --build
 | ------ | ------------------ | --------------------- |
 | GET    | /transactions      | List all transactions |
 | POST   | /transactions      | Create a transaction  |
-| GET    | 
+
