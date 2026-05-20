@@ -72,7 +72,3 @@ cd financial-control-platform
 cd backend
 ./mvnw spring-boot:run
 ```
-
-### 3. Frontend 
-
-
