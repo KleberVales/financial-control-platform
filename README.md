@@ -77,6 +77,5 @@ cd backend
 
 ```Bash
 cd frontend
-npm install
 
 ```
