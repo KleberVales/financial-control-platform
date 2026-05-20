@@ -94,5 +94,4 @@ docker-compose up --build
 | GET    | /transactions      | List all transactions |
 | POST   | /transactions      | Create a transaction  |
 | GET    | /reports           | Financial reports     |
-| DELETE | /transactions/{id} | Delete transaction    |
-
+| DELETE | /transactions/{id} | Delete
