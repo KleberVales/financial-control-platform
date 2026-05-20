@@ -83,11 +83,3 @@ npm start
 
 ## 🐳 Running with Docker
 
-```Bash
-docker-compose up --build
-```
-
-
-
-
-
