@@ -68,6 +68,4 @@ cd financial-control-platform
 
 ### 2. Backend setup
 
-```Bash
 
-```
