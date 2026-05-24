@@ -70,5 +70,5 @@ cd financial-control-platform
 
 ```Bash
 cd backend
-./mvnw 
+
 ```
