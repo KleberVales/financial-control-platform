@@ -66,5 +66,4 @@ git clone https://github.com/KleberVales/financial-control-platform.git
 cd financial-control-platform
 ```
 
-### 2. Backend
 
