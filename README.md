@@ -46,8 +46,6 @@ financial-control-platform/
 │   ├── repositories/
 │   └── models/
 │
-│── frontend/
-
 
 
 ```
