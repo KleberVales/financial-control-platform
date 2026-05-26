@@ -40,7 +40,6 @@ This project aims to provide a structured solution for tracking financial data, 
 
 financial-control-platform/
 │── backend/
-│   ├──
 
 
 
