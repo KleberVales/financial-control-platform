@@ -63,7 +63,6 @@ financial-control-platform/
 
 ```Bash
 git clone https://github.com/KleberVales/financial-control-platform.git
-cd financial
 ```
 
 
