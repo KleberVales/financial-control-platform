@@ -62,7 +62,7 @@ financial-control-platform/
 ### 1. Clone the repository
 
 ```Bash
-git clone 
+
 ```
 
 
