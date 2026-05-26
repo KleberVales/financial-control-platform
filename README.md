@@ -39,10 +39,7 @@ This project aims to provide a structured solution for tracking financial data, 
 ```text
 
 financial-control-platform/
-│── backend/
-
-
-
+│── 
 
 ```
 
