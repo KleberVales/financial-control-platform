@@ -43,7 +43,6 @@ financial-control-platform/
 │   ├── src/main/java/
 │   ├── controllers/
 │   ├── services/
-│   ├── 
 
 
 ```
