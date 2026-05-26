@@ -57,7 +57,7 @@ financial-control-platform/
 
 ```
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation 
 
 
 
