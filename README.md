@@ -42,7 +42,7 @@ financial-control-platform/
 │── backend/
 │   ├── src/main/java/
 │   ├── controllers/
-│   ├── 
+
 
 
 ```
