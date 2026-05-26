@@ -53,7 +53,7 @@ financial-control-platform/
 │   └── services/
 │
 │── docker/
-│── README.md
+
 
 ```
 
