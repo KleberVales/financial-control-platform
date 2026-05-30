@@ -9,4 +9,4 @@ This project aims to provide a structured solution for tracking financial data, 
 - 📊 Track income and expenses
 - 💳 Manage financial transactions
 - 📅 Organize data by date and category
-- 📈 Generate financial reports and 
+- 📈 Generate financial 
