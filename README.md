@@ -7,4 +7,3 @@ This project aims to provide a structured solution for tracking financial data, 
 ## 🚀 Features
 
 - 📊 Track income and expenses
-- 💳 Manage 
