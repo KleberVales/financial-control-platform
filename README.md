@@ -1,1 +1,1 @@
-# 💰 Financial Control
+# 💰 Financial
