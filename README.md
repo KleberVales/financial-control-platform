@@ -1,3 +1,3 @@
 # 💰 Financial Control Platform
 
-A financial control platform designed
+A financial control platform
