@@ -9,4 +9,4 @@ Java with Spring Software Engineer & AI Agent
 Cloud | DevOps | Generative AI | Agile
 
 Bacharel's degrees in Computer Science\
-MBA in Web Software 
+MBA in Web Software Development 
