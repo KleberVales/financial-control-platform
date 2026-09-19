@@ -1,12 +1,20 @@
 # Financial
 
 ---
+### Kleber Vales
 
-**Kleber Vales**
+**Java & Spring Software Engineer**
 
-Java with Spring Software Engineer & AI Agent
+DevOps | Cloud | Generative AI | Methodologies | Architecture
 
-Cloud | DevOps | Generative AI | Agile
-
-Bacharel's degrees in Computer Science\
+Bachelor's Degrees in Computer Science\
 MBA in Web Software Development 
+
+Certifications
+
+🏆 Oracle Certified Associate: Java 7 Programmer \
+🏆 Microsoft Technology Associate: Software 🏆 Development Fundamentals\
+🏆 Scrum Fundamentals Certified (SFC™)\
+🏆 Oracle Cloud Infrastructure 2025 - DevOps Professional\
+🏆 Oracle Cloud Infrastructure 2025 - Generative AI Professional\
+🏆 Agentic AI Certified Fundations Associate 
