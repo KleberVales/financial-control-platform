@@ -12,5 +12,4 @@ MBA in Web Software Development
 
 Certifications
 
-🏆 
 
