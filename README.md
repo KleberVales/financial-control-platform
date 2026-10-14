@@ -9,7 +9,3 @@ DevOps | Cloud | Generative AI | Methodologies | Architecture
 
 Bachelor's Degrees in Computer Science\
 MBA in Web Software Development 
-
-Certifications
-
-
