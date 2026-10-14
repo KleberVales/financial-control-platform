@@ -12,5 +12,5 @@ MBA in Web Software Development
 
 Certifications
 
-🏆 Oracle Certified 
+🏆 Oracle 
 
