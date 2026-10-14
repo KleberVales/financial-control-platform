@@ -13,6 +13,5 @@ MBA in Web Software Development
 Certifications
 
 🏆 Oracle Certified Associate: Java 7 Programmer \
-🏆 
 
 
